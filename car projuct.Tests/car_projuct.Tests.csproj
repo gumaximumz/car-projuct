@@ -92,9 +92,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\car projuct\car projuct.csproj">
+    <ProjectReference Include="..\car projuct\car_projuct.csproj">
       <Project>{8200F575-8A35-4F50-9487-13EE1B91FB1B}</Project>
-      <Name>car projuct</Name>
+      <Name>car_projuct</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "car projuct", "car projuct\car projuct.csproj", "{8200F575-8A35-4F50-9487-13EE1B91FB1B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "car_projuct", "car projuct\car_projuct.csproj", "{8200F575-8A35-4F50-9487-13EE1B91FB1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "car projuct.Tests", "car projuct.Tests\car projuct.Tests.csproj", "{CF68F3A1-BBEC-4728-ABBF-618391F93C0E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "car_projuct.Tests", "car projuct.Tests\car_projuct.Tests.csproj", "{CF68F3A1-BBEC-4728-ABBF-618391F93C0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
